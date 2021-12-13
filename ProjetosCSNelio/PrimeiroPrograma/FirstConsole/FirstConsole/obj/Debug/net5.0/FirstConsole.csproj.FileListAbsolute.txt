@@ -1,0 +1,16 @@
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\bin\Debug\net5.0\FirstConsole.exe
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\bin\Debug\net5.0\FirstConsole.deps.json
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\bin\Debug\net5.0\FirstConsole.runtimeconfig.json
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\bin\Debug\net5.0\FirstConsole.runtimeconfig.dev.json
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\bin\Debug\net5.0\FirstConsole.dll
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\bin\Debug\net5.0\ref\FirstConsole.dll
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\bin\Debug\net5.0\FirstConsole.pdb
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\obj\Debug\net5.0\FirstConsole.csproj.AssemblyReference.cache
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\obj\Debug\net5.0\FirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\obj\Debug\net5.0\FirstConsole.AssemblyInfoInputs.cache
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\obj\Debug\net5.0\FirstConsole.AssemblyInfo.cs
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\obj\Debug\net5.0\FirstConsole.csproj.CoreCompileInputs.cache
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\obj\Debug\net5.0\FirstConsole.dll
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\obj\Debug\net5.0\ref\FirstConsole.dll
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\obj\Debug\net5.0\FirstConsole.pdb
+D:\Projetos\ProjetosCSNelio\PrimeiroPrograma\FirstConsole\FirstConsole\obj\Debug\net5.0\FirstConsole.genruntimeconfig.cache
