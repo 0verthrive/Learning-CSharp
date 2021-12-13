@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\ProjetosCSNelio\\PrimeiroPrograma\\FirstConsole\\FirstConsole\\FirstConsole.csproj": {}
+    "D:\\Projetos\\Learning-CSharp\\ProjetosCSNelio\\PrimeiroPrograma\\FirstConsole\\FirstConsole\\FirstConsole.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\ProjetosCSNelio\\PrimeiroPrograma\\FirstConsole\\FirstConsole\\FirstConsole.csproj": {
+    "D:\\Projetos\\Learning-CSharp\\ProjetosCSNelio\\PrimeiroPrograma\\FirstConsole\\FirstConsole\\FirstConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\ProjetosCSNelio\\PrimeiroPrograma\\FirstConsole\\FirstConsole\\FirstConsole.csproj",
+        "projectUniqueName": "D:\\Projetos\\Learning-CSharp\\ProjetosCSNelio\\PrimeiroPrograma\\FirstConsole\\FirstConsole\\FirstConsole.csproj",
         "projectName": "FirstConsole",
-        "projectPath": "D:\\Projetos\\ProjetosCSNelio\\PrimeiroPrograma\\FirstConsole\\FirstConsole\\FirstConsole.csproj",
+        "projectPath": "D:\\Projetos\\Learning-CSharp\\ProjetosCSNelio\\PrimeiroPrograma\\FirstConsole\\FirstConsole\\FirstConsole.csproj",
         "packagesPath": "C:\\Users\\saral\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\ProjetosCSNelio\\PrimeiroPrograma\\FirstConsole\\FirstConsole\\obj\\",
+        "outputPath": "D:\\Projetos\\Learning-CSharp\\ProjetosCSNelio\\PrimeiroPrograma\\FirstConsole\\FirstConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saral\\AppData\\Roaming\\NuGet\\NuGet.Config",
